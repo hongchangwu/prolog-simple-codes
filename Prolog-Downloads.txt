@@ -1,0 +1,19 @@
+GNU Prolog
+
+http://www.gprolog.org/#download
+
+SWI Prolog
+
+http://www.swi-prolog.org/Download.html
+
+Emacs
+
+http://www.swi-prolog.org/FAQ/GnuEmacs.html
+
+Getting Started With Prolog
+
+http://jmvanel.free.fr/ai/prolog-getting-started.html
+
+Code Examples from "Art of Prolog"
+
+http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/prolog/bookcode/aop/0.html
